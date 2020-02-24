@@ -114,11 +114,7 @@ namespace rab1
                         Console.WriteLine("Нито...");
                         break;
                 }
-                Console.Write("\n\nНажмите любую клавишу...");
-                Console.ReadLine();
-                Console.Clear();
-            }
-            while (i != 4);
+               
         }
     }
 
